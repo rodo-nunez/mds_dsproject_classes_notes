@@ -1,0 +1,22 @@
+# Archivos binarios o grandes ---------------------------------------- 
+
+*.xlsx
+*.pdf
+*.zip
+*.docx
+*.pptx
+*.jpeg
+*.jpg
+*.png
+
+# Info confidencial ---------------------------------------- 
+
+contrapartes
+
+# Obsidian ---------------------------------------- 
+
+.obsidian
+
+# Outputs de otros codigos ---------------------------------------- 
+
+*.html

@@ -1,0 +1,26 @@
+{
+    "cSpell.enableFiletypes": [
+        "!python"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#051f73",
+        "activityBar.background": "#1029bb",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#552b39",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#1f53d6",
+        "statusBar.background": "#1931cb",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#1644cc",
+        "statusBarItem.remoteBackground": "#222ed3",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#1f39cb",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#1c3cdc99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#1029bb",
+    "jupyter.interactiveWindow.textEditor.executeSelection": false
+}

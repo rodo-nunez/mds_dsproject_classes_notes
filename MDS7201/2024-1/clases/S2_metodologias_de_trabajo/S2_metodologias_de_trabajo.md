@@ -8,9 +8,9 @@
 	- Mejorar el insight generado
 - Diferencia con desarrollo de software tradicional
 - Algunos riesgos
-	- ![[Pasted image 20240310181304.png]]
+	- ![[project_risks.png]]
 - Algunas áreas en las que enfocar el trabajo
-	- ![[Pasted image 20240310181537.png]]
+	- ![[areas_of_focus.png]]
 - Tipos de metodologías de trabajo
 	- Metodologías relacionadas con Data Science
 		- KDD (década de los '90)
@@ -147,12 +147,12 @@
 - https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 - https://www.mirantis.com/cloud-native-concepts/understanding-containers/what-is-a-container-registry/
 - https://neptune.ai/blog/ml-model-registry
-- https://www.youtube.com/watch?v=C5JElgliTeE
-- https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLeKgk5El3zkShgXMvKQJF6SpslUNfFtqN&ab_channel=UnityCoin
-- https://www.youtube.com/watch?v=62v251H96Dw
-- https://www.youtube.com/watch?v=o80HGoCOlU8
-- https://www.youtube.com/watch?v=bZ1JAHETKxY
-- https://www.youtube.com/watch?v=MBPQpWudZhs
+- ![](https://www.youtube.com/watch?v=C5JElgliTeE)
+- ![](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLeKgk5El3zkShgXMvKQJF6SpslUNfFtqN&ab_channel=UnityCoin)
+- ![](https://www.youtube.com/watch?v=62v251H96Dw)
+- ![](https://www.youtube.com/watch?v=o80HGoCOlU8)
+- ![](https://www.youtube.com/watch?v=bZ1JAHETKxY)
+- ![](https://www.youtube.com/watch?v=MBPQpWudZhs)
 
 ## Volver al inicio
 

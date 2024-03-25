@@ -31,3 +31,7 @@
 - https://cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison?hl=es-419
 - https://www.geeksforgeeks.org/top-aws-services/
 - ![](https://www.youtube.com/watch?v=JIbIYCM48to)
+
+## Volver al inicio
+
+[[resumenes_clases_MDS7201]]

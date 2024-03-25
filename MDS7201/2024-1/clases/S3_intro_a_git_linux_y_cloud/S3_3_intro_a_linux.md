@@ -79,3 +79,7 @@
 - https://betterdatascience.com/python-dotenv/
 - https://able.bio/rhett/how-to-set-and-get-environment-variables-in-python--274rgt5
 - ![E31 - Linux, distribuciones, desktops y qué es mejor para DataScience](https://www.youtube.com/watch?v=97nqF859K0w "E31 - Linux, distribuciones, desktops y qué es mejor para DataScience")
+
+## Volver al inicio
+
+[[resumenes_clases_MDS7201]]

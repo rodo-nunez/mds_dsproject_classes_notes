@@ -47,3 +47,7 @@
 - https://rtyley.github.io/bfg-repo-cleaner/
 - https://github.com/microsoft/vscode-jupyter/issues/4495
 
+
+## Volver al inicio
+
+[[resumenes_clases_MDS7201]]

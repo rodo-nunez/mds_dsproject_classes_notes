@@ -15,7 +15,7 @@
 
 ## Links relevantes
 
-https://www.youtube.com/watch?v=ThoaVXW_VVY
+- ![](https://www.youtube.com/watch?v=ThoaVXW_VVY)
 
 ## Material relevante
 

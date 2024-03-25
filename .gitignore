@@ -15,8 +15,9 @@ contrapartes
 
 # Obsidian ---------------------------------------- 
 
-.obsidian
+.obsidian/workspace.json
 
 # Outputs de otros codigos ---------------------------------------- 
 
 *.html
+.Rproj.user

@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=ThoaVXW_VVY
 
 ## Volver al inicio
 
-[[Resumenes clases MDS7201]]
+[[resumenes_clases_MDS7201]]

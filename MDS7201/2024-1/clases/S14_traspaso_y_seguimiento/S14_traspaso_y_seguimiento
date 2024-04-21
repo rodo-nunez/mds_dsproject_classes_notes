@@ -1,0 +1,74 @@
+# Traspaso de proyectos y seguimiento
+
+## Comunicación y traspaso del proyecto 
+
+### Público objetivo
+
+- Técnico
+- No técnico
+- Para documentación técnica, no es muy eficiente usar presentaciones. Es mejor en documento bien detallado, fácil de leer, copiar y pegar código.
+- Para una documentación de alto nivel, puede bastar una presentación, pero eso NO es suficiente
+
+### Documentación
+
+- La documentación es parte del proyecto y está "viva"
+- Documentación en código versus reportes
+- No usen presentaciones para documentar. Ese no es su rol.
+
+### Clean Code
+
+- Reusable
+- Composable
+- Easy to understand
+
+- Cuándo y cómo comentar?
+- Nombres descriptivos de variables, funciones, objetos, etc.
+- Evitar side-efects
+- Usar rutas reletivas, no absolutas
+- Usar archivos de configuración de IDE
+- Usar ambientes virtuales con las librerías necesarias
+- Jamás commitear credenciales. Usar .env
+
+- SOLID principles
+
+### README.md
+
+- Buena documentación de la aplicación
+  - Cómo descargar
+  - Cómo configurar
+  - Cómo instalar
+  - Cómo utilizar
+  - Cómo contribuir
+  - Cómo hacer cambios a producción
+
+- Buena documentación de la arquitectura
+  - Cómo cada sección se comunica con otras
+  - Cuál es el ambiente de trabajo
+  - Cuál es el workflow de desarrollo
+  - Cómo es el CI/CD pipelines
+  - Dónde se hacen tests automáticos
+
+- No documentar necesariamente todo en un solo README gigante. Hacerlo de forma parcelada, por carpetas.
+
+### Estructura de carpetas y archivos
+
+- Por qué es útil?
+- Ejemplo de una
+
+## Seguimiento de calidad de datos
+
+### Demo GX
+
+- Demo
+
+## Seguimiento de métricas
+
+- Demo
+
+
+## Links relevantes
+
+- https://www.youtube.com/watch?v=bEir1fAcDNw&ab_channel=Praxent
+- https://www.youtube.com/watch?v=3si6p6KTsbI
+- https://www.freecodecamp.org/news/solid-principles-for-better-software-design/
+- https://www.youtube.com/watch?v=0X_nuVk84SM

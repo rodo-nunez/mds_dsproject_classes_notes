@@ -22,3 +22,4 @@ fondos_concursables
 
 *.html
 .Rproj.user
+*.ipynb

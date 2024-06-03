@@ -4,6 +4,8 @@
 
 - Material subido por Francisco a U-Cursos
 - EDA Automático
+- https://nbviewer.org/github/fforster/MDS7201/blob/main/notebooks/EDA/EDA.ipynb
+- https://docs.google.com/presentation/d/1iAnuKusw6aPJn384KHFqFVtXWU1TSReWvr97Kj1A6rg/edit#slide=id.p
 
 ## Visualización
 

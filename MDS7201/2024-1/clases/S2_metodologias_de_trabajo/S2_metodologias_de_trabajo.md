@@ -36,6 +36,17 @@
 			- Características
 				- Coexistencia de fases
 				- Distintos roles
+		- CRISP-ML (2021)
+			- Etapas 
+    			1. Business and Data Understanding
+    			2. Data Engineering (Data Preparation)
+    			3. Machine Learning Model Engineering
+    			4. Quality Assurance for Machine Learning Applications
+    			5. Deployment
+    			6. Monitoring and Maintenance
+  			- Características
+    			- Uso de ML Canvas
+    			- Importancia de QA, deployment y monitoreo
 		- Otros
 			- SEMMA (2012)
 			- Domino (2017)
@@ -136,6 +147,9 @@
 - https://learn.microsoft.com/en-us/azure/architecture/data-science-process/overview
 - https://www.turing.com/kb/understanding-the-workflow-of-mlops
 - https://ml-ops.org/content/mlops-principles
+- https://ml-ops.org/content/crisp-ml
+- https://arxiv.org/pdf/2003.05155
+- https://www.ownml.co/machine-learning-canvas
 - https://mlops-guide.github.io/
 - https://rihab-feki.medium.com/mlops-01-an-introduction-to-mlops-levels-its-life-cycle-7e9eb9a1f296
 - https://www.projectmanager.com/blog/project-management-methodology

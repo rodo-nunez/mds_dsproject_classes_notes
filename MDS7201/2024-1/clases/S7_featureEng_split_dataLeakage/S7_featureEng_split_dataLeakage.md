@@ -6,6 +6,7 @@
 - Split en distintos tipos de datasets
 - Data Leakage
 - Tratamiento de datos desbalanceados
+- https://github.com/fforster/MDS7201/blob/main/notebooks/Preprocessing/Preproc%2Bfeature%2Bsplit.ipynb
 
 ## Webinar DS 7.2 - Métricas de evaluación de modelos
 

@@ -24,3 +24,5 @@ evaluaciones
 *.html
 .Rproj.user
 *.ipynb
+.env
+.venv

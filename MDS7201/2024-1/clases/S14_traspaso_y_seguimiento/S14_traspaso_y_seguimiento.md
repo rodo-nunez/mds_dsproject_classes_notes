@@ -54,6 +54,7 @@
 
 - Por qué es útil?
 - Ejemplo de una
+- Modularización
 
 ## Seguimiento de calidad de datos
 
@@ -72,3 +73,4 @@
 - https://www.youtube.com/watch?v=3si6p6KTsbI
 - https://www.freecodecamp.org/news/solid-principles-for-better-software-design/
 - https://www.youtube.com/watch?v=0X_nuVk84SM
+- https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design

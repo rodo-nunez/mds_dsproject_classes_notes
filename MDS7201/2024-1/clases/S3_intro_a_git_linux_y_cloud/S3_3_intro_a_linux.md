@@ -53,8 +53,8 @@
   - install
   - pipX
   - pythonX
-  - virtualenv
-    - Setear un ambiente virtual con virtualenv
+  - ambiente virtual
+    - `python -m venv venv`
 - variables de ambiente con .env
   
 ## Links relevantes

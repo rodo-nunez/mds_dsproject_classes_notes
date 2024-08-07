@@ -163,6 +163,7 @@
 - https://neptune.ai/blog/ml-model-registry
 - ![](https://www.youtube.com/watch?v=C5JElgliTeE)
 - ![](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLeKgk5El3zkShgXMvKQJF6SpslUNfFtqN&ab_channel=UnityCoin)
+- ![](https://www.youtube.com/watch?v=nup6GBUsPTQ)
 - ![](https://www.youtube.com/watch?v=62v251H96Dw)
 - ![](https://www.youtube.com/watch?v=o80HGoCOlU8)
 - ![](https://www.youtube.com/watch?v=bZ1JAHETKxY)

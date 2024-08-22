@@ -151,6 +151,7 @@ Comenzar a trabajar en una funcionalidad ficticia y usar stash para guardar el W
 - ![Git Internals - The BLOB](https://www.youtube.com/watch?v=_wj4MGuvcjc&ab_channel=Ashotofcode)
 - ![10 Must Know Git Commands That Almost Nobody Knows](https://www.youtube.com/watch?v=mnmYwRoSisg&ab_channel=WebDevSimplified)
 - ![E13 - Cómo usar Git: Tutorial básico y buenas prácticas](https://www.youtube.com/watch?v=h0wSb2n7PkY&ab_channel=en_coders)
+- ![21 alias útiles para git](https://elbauldelprogramador.com/21-aliases-utiles-para-git/)
 
 ## Volver al inicio
 

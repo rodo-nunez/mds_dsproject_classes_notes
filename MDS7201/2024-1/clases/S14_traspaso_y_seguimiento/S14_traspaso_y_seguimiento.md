@@ -4,7 +4,7 @@
 
 ### Por qué es importante?
 
-- Si no se haca bien, el equipo que recibe el código, podría no saber cómo continuarlo y aplicarlo
+- Si no se hace bien, el equipo que recibe el código, podría no saber cómo continuarlo y aplicarlo
 - Atrasos y falsas expectativas
 
 ### Público objetivo
